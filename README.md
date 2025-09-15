@@ -6,5 +6,6 @@ Website Company Profile
 - Terdiri dari 2 halaman : Beranda dan Profil Perusahaan
 - Halaman Beranda Menjelaskan Pengantar Perusahaan
 - Halaman Profil Perusahaan Menjelaskan Layanan Perusahaan
-  
-Terdapat Link untuk berpindah halaman antara beranda dengan profil perusahaan
+- Terdapat Link untuk berpindah halaman antara beranda dengan profil perusahaan
+
+berikut link websitenya : https://tugas-1-magang-pt-ousean-global-dig.vercel.app/
